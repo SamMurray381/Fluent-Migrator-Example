@@ -1,0 +1,24 @@
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Murray.Tradeinterchange-Demo.DbMigrator.dll
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Murray.Tradeinterchange-Demo.DbMigrator.pdb
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.dll
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Migrate.exe
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.pdb
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.xml
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Migrate.pdb
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.dll
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.pdb
+C:\Users\sam\documents\visual studio 2015\Projects\Murray.Tradeinterchange-Demo.App\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Murray.Tradeinterchange-Demo.DbMigrator.dll
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Murray.Tradeinterchange-Demo.DbMigrator.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.dll
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.Runner.dll
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Migrate.exe
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.xml
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\FluentMigrator.Runner.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\bin\Debug\Migrate.pdb
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.csprojResolveAssemblyReference.cache
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.dll
+C:\Users\sam\Documents\Visual Studio 2015\Projects\Fluent Migrator Example\Murray.Tradeinterchange-Demo.DbMigrator\obj\Debug\Murray.Tradeinterchange-Demo.DbMigrator.pdb
