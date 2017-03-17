@@ -284,6 +284,12 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Murray.Tradeinterchange-Demo.Domain\Murray.Tradeinterchange-Demo.Domain.csproj">
+      <Project>{B4720227-E955-4D24-86AF-7680AC080B68}</Project>
+      <Name>Murray.Tradeinterchange-Demo.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

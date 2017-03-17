@@ -1,0 +1,9 @@
+/.vs
+/Murray.Tradeinterchange-Demo.Tests/obj
+/Murray.Tradeinterchange-Demo.Tests/bin
+/Murray.Tradeinterchange-Demo.Domain/obj
+/Murray.Tradeinterchange-Demo.Domain/bin
+/Murray.Tradeinterchange-Demo.DbMigrator/obj
+/Murray.Tradeinterchange-Demo.DbMigrator/bin
+/Murray.Tradeinterchange-Demo.App/bin
+/Murray.Tradeinterchange-Demo.App/obj
